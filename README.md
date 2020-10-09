@@ -9,3 +9,4 @@
 
 - 举办方：丁香园
 - 活动介绍：[【活动】第二届「缤纷·滨江前端技术沙龙」](https://mp.weixin.qq.com/s/tWyrhq9-L5Ox3T6sg1RbDA)
+- 沙龙活动回放视频：<https://live.dxy.cn/front/live/DC202009070077280>
